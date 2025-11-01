@@ -47,6 +47,7 @@ It is used to store and manage student records.
  Note
 Run MongoDB before starting the project.  
 You can test all APIs using **Postman**.
+https://response-06-palak-4430881.postman.co/workspace/Personal-Workspace~20f101ae-1ea5-4af8-b45a-9f92afb1484b/collection/48668157-3beea816-00fc-4410-a861-f53e3a0d0b73?action=share&creator=48668157
 
 
    
